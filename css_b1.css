@@ -1,0 +1,22 @@
+input {
+    flex-grow:1;
+    border:none;
+    width: 25%;
+}
+#show{
+    border: 1px none white;
+    background-color: white;
+}
+#hidden{
+    display:none;
+    border: 1px none white;
+    background-color: white;
+}
+form {
+    display:flex;
+    width: fit-content;
+    flex-direction:row;
+    border:1px solid grey;
+    border-radius: 5px;
+    padding:1px;
+}
